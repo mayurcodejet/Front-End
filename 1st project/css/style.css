@@ -1,0 +1,47 @@
+<style>
+.head1 {
+    font-size: 40px;
+    color: blue;
+    font-weight: bold;
+}
+
+.head2 { 
+    font-size: 17px;
+    margin-left: 10px;
+    margin: bottom 150ex;
+}
+
+body {
+    margin: 0 auto;
+    background-position: center;
+    background-size: contain  ;   
+}
+
+menu {
+    position: sticky;
+    top: 0;
+    background-color: #009000;
+    padding: 10px 0px 10px 0px;
+    color: white;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.menu a { 
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.menu-log {
+    right: auto;
+    float: right;
+}
+
+footer {
+    width: 100%;
+    
+}
