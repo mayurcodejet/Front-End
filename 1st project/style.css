@@ -1,0 +1,16 @@
+/* This is body color */
+body {
+    background-color: black;
+}
+
+/* h1 tag */
+h1{
+    color: red;
+    margin-left: 20px;
+}
+
+/* p tag*/
+p{
+    color: blue;
+    margin-left: 20px;
+}
